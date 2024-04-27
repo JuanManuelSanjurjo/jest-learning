@@ -1,6 +1,6 @@
 # Prueba de jest en node
 
-Este proyecto es una prueba de jest en node.
+Proyecto para aprender Jest y sus matchers en node.
 
 [Enlace al archivo de guía](/jest.md) con explicaciones y marchers de comandos.
 
